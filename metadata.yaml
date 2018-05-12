@@ -1,0 +1,29 @@
+_repo: Lautrec_34422
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coquiot, Gustave
+    birthdate: 1865
+    deathdate: 1926
+    gutenberg_agent_id: '37017'
+    url: http://www.gutenberg.org/2009/agents/37017
+    wikipedia: http://fr.wikipedia.org/wiki/Gustave_Coquiot
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2010-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34422'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'N'
+- !lcc 'PQ'
+- !lcsh 'Toulouse-Lautrec, Henri de, 1864-1901'
+title: Lautrec; ou, Quinze ans de mœurs Parisiennes, 1885-1900
+url: http://www.gutenberg.org/ebooks/34422
